@@ -1,0 +1,545 @@
+﻿application_id,full_name,email,college,preferred_domain,completeness_score,score_reason,needs_human_check,check_reason,duplicate_of,reply_subject,drafted_reply
+APP-1001,Ramya Reddy,ramya.reddy77@example.com,Sri Venkateswara University College of Engineering,Artificial Intelligence and Automation,10,"complete: resume, valid contact details, specific statement",no,,,InternFactory application received,"Hi Ramya,
+
+Thank you for applying to the InternFactory Internship Program for the Artificial Intelligence and Automation track from Sri Venkateswara University College of Engineering.
+Wanting to move from tutorials to production-quality work with code reviews is the right goal.
+In this track you would build AI-assisted tools and automations that solve real business problems.
+
+Your application is complete and we have it on file.
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1002,Manoj Das,manoj.das3@example.com,Sree Vidyanikethan Engineering College,"Data Engineering, Cloud and Analytics",4,resume missing (-3); statement too short/generic (-3),YES,low score,,InternFactory application: a few details needed,"Hi Manoj,
+
+Thank you for applying to the InternFactory Internship Program for the Data Engineering, Cloud and Analytics track from Sree Vidyanikethan Engineering College.
+In this track you would work on data pipelines, cloud services and dashboards.
+
+To complete your application, please reply with:
+  - a working link to your resume (Google Drive or PDF)
+  - 3-4 lines about a project you have done or something specific you want to build or learn
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1003,Divya Sharma,divya.sharma56@example.com,JNTU Anantapur,Software Development and Full-Stack Engineering,7,resume missing (-3),YES,statement does not match chosen domain,,InternFactory application: a few details needed,"Hi Divya,
+
+Thank you for applying to the InternFactory Internship Program for the Software Development and Full-Stack Engineering track from JNTU Anantapur.
+In this track you would build and maintain web applications and have your code reviewed by engineers.
+
+To complete your application, please reply with:
+  - a working link to your resume (Google Drive or PDF)
+  - confirmation of your preferred domain (you chose Software Development and Full-Stack Engineering, but your note points to Software Testing and Quality Assurance)
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1004,Hema Sharma,hema.sharma49@example.com,JNTU Anantapur,Artificial Intelligence and Automation,10,"complete: resume, valid contact details, specific statement",YES,duplicate of APP-1048 - do not send,APP-1048,,
+APP-1005,Aarav Naidu,aarav.naidu68@example.com,SRM Institute of Science and Technology,Software Testing and Quality Assurance,10,"complete: resume, valid contact details, specific statement",no,,,InternFactory application received,"Hi Aarav,
+
+Thank you for applying to the InternFactory Internship Program for the Software Testing and Quality Assurance track from SRM Institute of Science and Technology.
+Wanting to move from tutorials to production-quality work with code reviews is the right goal.
+In this track you would find bugs, write clear reports and build automated tests.
+
+Your application is complete and we have it on file.
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1006,Monika Varma,monika.varma53@example.com,JNTU Anantapur,"Data Engineering, Cloud and Analytics",7,statement too short/generic (-3),no,,,InternFactory application: a few details needed,"Hi Monika,
+
+Thank you for applying to the InternFactory Internship Program for the Data Engineering, Cloud and Analytics track from JNTU Anantapur.
+In this track you would work on data pipelines, cloud services and dashboards.
+
+To complete your application, please reply with:
+  - 3-4 lines about a project you have done or something specific you want to build or learn
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1007,Vikram Gupta,vikram.gupta20@example.com,Chadalawada Ramanamma Engineering College,Software Development and Full-Stack Engineering,3,resume missing (-3); statement missing (-4),YES,low score,,InternFactory application: a few details needed,"Hi Vikram,
+
+Thank you for applying to the InternFactory Internship Program for the Software Development and Full-Stack Engineering track from Chadalawada Ramanamma Engineering College.
+In this track you would build and maintain web applications and have your code reviewed by engineers.
+
+To complete your application, please reply with:
+  - a working link to your resume (Google Drive or PDF)
+  - 3-4 lines about a project you have done or something specific you want to build or learn
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1008,Bhavya Prasad,bhavya.prasad44@example.com,SRM Institute of Science and Technology,Artificial Intelligence and Automation,7,statement too short/generic (-3),no,,,InternFactory application: a few details needed,"Hi Bhavya,
+
+Thank you for applying to the InternFactory Internship Program for the Artificial Intelligence and Automation track from SRM Institute of Science and Technology.
+In this track you would build AI-assisted tools and automations that solve real business problems.
+
+To complete your application, please reply with:
+  - 3-4 lines about a project you have done or something specific you want to build or learn
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1009,Priya Reddy,priya.reddy26@example.com,Sri Venkateswara University College of Engineering,Software Development and Full-Stack Engineering,4,resume missing (-3); statement too short/generic (-3),YES,low score,,InternFactory application: a few details needed,"Hi Priya,
+
+Thank you for applying to the InternFactory Internship Program for the Software Development and Full-Stack Engineering track from Sri Venkateswara University College of Engineering.
+In this track you would build and maintain web applications and have your code reviewed by engineers.
+
+To complete your application, please reply with:
+  - a working link to your resume (Google Drive or PDF)
+  - 3-4 lines about a project you have done or something specific you want to build or learn
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1010,Divya Nair,divya.nair75@example.com,Sri Venkateswara University College of Engineering,Software Development and Full-Stack Engineering,7,resume missing (-3),no,,,InternFactory application: a few details needed,"Hi Divya,
+
+Thank you for applying to the InternFactory Internship Program for the Software Development and Full-Stack Engineering track from Sri Venkateswara University College of Engineering.
+Wanting to move from tutorials to production-quality work with code reviews is the right goal.
+In this track you would build and maintain web applications and have your code reviewed by engineers.
+
+To complete your application, please reply with:
+  - a working link to your resume (Google Drive or PDF)
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1011,Mahesh Pillai,mahesh.pillai8@example.com,VIT Vellore,Software Development and Full-Stack Engineering,7,resume missing (-3),YES,statement does not match chosen domain,,InternFactory application: a few details needed,"Hi Mahesh,
+
+Thank you for applying to the InternFactory Internship Program for the Software Development and Full-Stack Engineering track from VIT Vellore.
+In this track you would build and maintain web applications and have your code reviewed by engineers.
+
+To complete your application, please reply with:
+  - a working link to your resume (Google Drive or PDF)
+  - confirmation of your preferred domain (you chose Software Development and Full-Stack Engineering, but your note points to Software Testing and Quality Assurance)
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1012,Hema Rao,hema.rao37@example.com,Sri Venkateswara University College of Engineering,"Data Engineering, Cloud and Analytics",4,resume missing (-3); statement too short/generic (-3),YES,low score,,InternFactory application: a few details needed,"Hi Hema,
+
+Thank you for applying to the InternFactory Internship Program for the Data Engineering, Cloud and Analytics track from Sri Venkateswara University College of Engineering.
+In this track you would work on data pipelines, cloud services and dashboards.
+
+To complete your application, please reply with:
+  - a working link to your resume (Google Drive or PDF)
+  - 3-4 lines about a project you have done or something specific you want to build or learn
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1013,Sandeep Chowdary,sandeep.chowdary54@example.com,SRM Institute of Science and Technology,"Data Engineering, Cloud and Analytics",10,"complete: resume, valid contact details, specific statement",no,,,InternFactory application received,"Hi Sandeep,
+
+Thank you for applying to the InternFactory Internship Program for the Data Engineering, Cloud and Analytics track from SRM Institute of Science and Technology.
+Wanting to move from tutorials to production-quality work with code reviews is the right goal.
+In this track you would work on data pipelines, cloud services and dashboards.
+
+Your application is complete and we have it on file.
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1014,Rohit Patel,rohit.patel95@example.com,Sri Venkateswara University College of Engineering,Software Testing and Quality Assurance,7,resume missing (-3),YES,statement does not match chosen domain,,InternFactory application: a few details needed,"Hi Rohit,
+
+Thank you for applying to the InternFactory Internship Program for the Software Testing and Quality Assurance track from Sri Venkateswara University College of Engineering.
+In this track you would find bugs, write clear reports and build automated tests.
+
+To complete your application, please reply with:
+  - a working link to your resume (Google Drive or PDF)
+  - confirmation of your preferred domain (you chose Software Testing and Quality Assurance, but your note points to Data Engineering, Cloud and Analytics)
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1015,Ajay Prasad,ajay.prasad60@example.com,Sree Vidyanikethan Engineering College,Artificial Intelligence and Automation,10,"complete: resume, valid contact details, specific statement",YES,statement does not match chosen domain,,InternFactory application: a few details needed,"Hi Ajay,
+
+Thank you for applying to the InternFactory Internship Program for the Artificial Intelligence and Automation track from Sree Vidyanikethan Engineering College.
+In this track you would build AI-assisted tools and automations that solve real business problems.
+
+To complete your application, please reply with:
+  - confirmation of your preferred domain (you chose Artificial Intelligence and Automation, but your note points to Data Engineering, Cloud and Analytics)
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1016,Swathi Patel,swathi.patel20@example.com,Mohan Babu University,Software Testing and Quality Assurance,10,"complete: resume, valid contact details, specific statement",YES,statement does not match chosen domain,,InternFactory application: a few details needed,"Hi Swathi,
+
+Thank you for applying to the InternFactory Internship Program for the Software Testing and Quality Assurance track from Mohan Babu University.
+In this track you would find bugs, write clear reports and build automated tests.
+
+To complete your application, please reply with:
+  - confirmation of your preferred domain (you chose Software Testing and Quality Assurance, but your note points to Artificial Intelligence and Automation)
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1017,Teja Naidu,teja.naidu39@example.com,Sri Venkateswara University College of Engineering,"Data Engineering, Cloud and Analytics",7,statement too short/generic (-3),no,,,InternFactory application: a few details needed,"Hi Teja,
+
+Thank you for applying to the InternFactory Internship Program for the Data Engineering, Cloud and Analytics track from Sri Venkateswara University College of Engineering.
+In this track you would work on data pipelines, cloud services and dashboards.
+
+To complete your application, please reply with:
+  - 3-4 lines about a project you have done or something specific you want to build or learn
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1018,Aarav Menon,aarav.menon38@example.com,Anna University,"Data Engineering, Cloud and Analytics",4,resume missing (-3); statement too short/generic (-3),YES,low score,,InternFactory application: a few details needed,"Hi Aarav,
+
+Thank you for applying to the InternFactory Internship Program for the Data Engineering, Cloud and Analytics track from Anna University.
+In this track you would work on data pipelines, cloud services and dashboards.
+
+To complete your application, please reply with:
+  - a working link to your resume (Google Drive or PDF)
+  - 3-4 lines about a project you have done or something specific you want to build or learn
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1019,Sneha Varma,sneha.varma59@example.com,Sree Vidyanikethan Engineering College,Artificial Intelligence and Automation,7,resume missing (-3),no,,,InternFactory application: a few details needed,"Hi Sneha,
+
+Thank you for applying to the InternFactory Internship Program for the Artificial Intelligence and Automation track from Sree Vidyanikethan Engineering College.
+Wanting to move from tutorials to production-quality work with code reviews is the right goal.
+In this track you would build AI-assisted tools and automations that solve real business problems.
+
+To complete your application, please reply with:
+  - a working link to your resume (Google Drive or PDF)
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1020,Nikhil Chowdary,nikhil.chowdary50@example.com,SRM Institute of Science and Technology,Artificial Intelligence and Automation,7,resume missing (-3),no,,,InternFactory application: a few details needed,"Hi Nikhil,
+
+Thank you for applying to the InternFactory Internship Program for the Artificial Intelligence and Automation track from SRM Institute of Science and Technology.
+Wanting to move from tutorials to production-quality work with code reviews is the right goal.
+In this track you would build AI-assisted tools and automations that solve real business problems.
+
+To complete your application, please reply with:
+  - a working link to your resume (Google Drive or PDF)
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1021,Rohit Reddy,rohit.reddy23@example.com,Sri Venkateswara University College of Engineering,"Data Engineering, Cloud and Analytics",7,statement too short/generic (-3),no,,,InternFactory application: a few details needed,"Hi Rohit,
+
+Thank you for applying to the InternFactory Internship Program for the Data Engineering, Cloud and Analytics track from Sri Venkateswara University College of Engineering.
+In this track you would work on data pipelines, cloud services and dashboards.
+
+To complete your application, please reply with:
+  - 3-4 lines about a project you have done or something specific you want to build or learn
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1022,Sahithi Rao,sahithi.rao43@example.com,Mohan Babu University,Software Development and Full-Stack Engineering,10,"complete: resume, valid contact details, specific statement",YES,has duplicate submissions - this is the latest,,InternFactory application received,"Hi Sahithi,
+
+Thank you for applying to the InternFactory Internship Program for the Software Development and Full-Stack Engineering track from Mohan Babu University.
+Building a fest registration site is a solid first real-world project.
+In this track you would build and maintain web applications and have your code reviewed by engineers.
+
+Your application is complete and we have it on file.
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1023,Hema Nair,hema.nair41@example.com,Chadalawada Ramanamma Engineering College,Software Testing and Quality Assurance,5,statement too short/generic (-3); invalid phone (-2),no,,,InternFactory application: a few details needed,"Hi Hema,
+
+Thank you for applying to the InternFactory Internship Program for the Software Testing and Quality Assurance track from Chadalawada Ramanamma Engineering College.
+In this track you would find bugs, write clear reports and build automated tests.
+
+To complete your application, please reply with:
+  - 3-4 lines about a project you have done or something specific you want to build or learn
+  - your correct 10-digit mobile number (the one we have looks incomplete)
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1024,Yamini Gupta,yamini.gupta28@example.com,Sri Venkateswara University College of Engineering,Software Testing and Quality Assurance,2,resume missing (-3); statement too short/generic (-3); invalid phone (-2),YES,low score,,InternFactory application: a few details needed,"Hi Yamini,
+
+Thank you for applying to the InternFactory Internship Program for the Software Testing and Quality Assurance track from Sri Venkateswara University College of Engineering.
+In this track you would find bugs, write clear reports and build automated tests.
+
+To complete your application, please reply with:
+  - a working link to your resume (Google Drive or PDF)
+  - 3-4 lines about a project you have done or something specific you want to build or learn
+  - your correct 10-digit mobile number (the one we have looks incomplete)
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1025,Ramya Prasad,ramya.prasad3@example.com,Anna University,Artificial Intelligence and Automation,7,resume missing (-3),no,,,InternFactory application: a few details needed,"Hi Ramya,
+
+Thank you for applying to the InternFactory Internship Program for the Artificial Intelligence and Automation track from Anna University.
+Wanting to move from tutorials to production-quality work with code reviews is the right goal.
+In this track you would build AI-assisted tools and automations that solve real business problems.
+
+To complete your application, please reply with:
+  - a working link to your resume (Google Drive or PDF)
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1026,Deepika Nair,deepika.nair3@example.com,Anna University,Artificial Intelligence and Automation,10,"complete: resume, valid contact details, specific statement",YES,statement does not match chosen domain,,InternFactory application: a few details needed,"Hi Deepika,
+
+Thank you for applying to the InternFactory Internship Program for the Artificial Intelligence and Automation track from Anna University.
+In this track you would build AI-assisted tools and automations that solve real business problems.
+
+To complete your application, please reply with:
+  - confirmation of your preferred domain (you chose Artificial Intelligence and Automation, but your note points to Software Testing and Quality Assurance)
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1027,Manoj Pillai,manoj.pillai64@example.com,Sri Venkateswara University College of Engineering,"Data Engineering, Cloud and Analytics",10,"complete: resume, valid contact details, specific statement",no,,,InternFactory application received,"Hi Manoj,
+
+Thank you for applying to the InternFactory Internship Program for the Data Engineering, Cloud and Analytics track from Sri Venkateswara University College of Engineering.
+Your interest in data pipelines and monitoring fits well with what we do.
+In this track you would work on data pipelines, cloud services and dashboards.
+
+Your application is complete and we have it on file.
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1028,Swathi Das,swathi.das84@example.com,Chadalawada Ramanamma Engineering College,Software Testing and Quality Assurance,7,resume missing (-3),YES,statement does not match chosen domain,,InternFactory application: a few details needed,"Hi Swathi,
+
+Thank you for applying to the InternFactory Internship Program for the Software Testing and Quality Assurance track from Chadalawada Ramanamma Engineering College.
+In this track you would find bugs, write clear reports and build automated tests.
+
+To complete your application, please reply with:
+  - a working link to your resume (Google Drive or PDF)
+  - confirmation of your preferred domain (you chose Software Testing and Quality Assurance, but your note points to Artificial Intelligence and Automation)
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1029,Sravani Gupta,sravani.gupta66@example.com,JNTU Anantapur,Software Development and Full-Stack Engineering,7,resume missing (-3),YES,statement does not match chosen domain,,InternFactory application: a few details needed,"Hi Sravani,
+
+Thank you for applying to the InternFactory Internship Program for the Software Development and Full-Stack Engineering track from JNTU Anantapur.
+In this track you would build and maintain web applications and have your code reviewed by engineers.
+
+To complete your application, please reply with:
+  - a working link to your resume (Google Drive or PDF)
+  - confirmation of your preferred domain (you chose Software Development and Full-Stack Engineering, but your note points to Data Engineering, Cloud and Analytics)
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1030,Monika Naidu,monika.naidu17@example.com,Anna University,Software Development and Full-Stack Engineering,7,statement too short/generic (-3),no,,,InternFactory application: a few details needed,"Hi Monika,
+
+Thank you for applying to the InternFactory Internship Program for the Software Development and Full-Stack Engineering track from Anna University.
+In this track you would build and maintain web applications and have your code reviewed by engineers.
+
+To complete your application, please reply with:
+  - 3-4 lines about a project you have done or something specific you want to build or learn
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1031,Varun Rao,varun.rao6@example.com,Annamacharya Institute of Technology and Sciences,Software Development and Full-Stack Engineering,10,"complete: resume, valid contact details, specific statement",YES,statement does not match chosen domain,,InternFactory application: a few details needed,"Hi Varun,
+
+Thank you for applying to the InternFactory Internship Program for the Software Development and Full-Stack Engineering track from Annamacharya Institute of Technology and Sciences.
+In this track you would build and maintain web applications and have your code reviewed by engineers.
+
+To complete your application, please reply with:
+  - confirmation of your preferred domain (you chose Software Development and Full-Stack Engineering, but your note points to Software Testing and Quality Assurance)
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1032,Charan Kumar,charan.kumar76@example.com,Sree Vidyanikethan Engineering College,"Data Engineering, Cloud and Analytics",4,resume missing (-3); statement too short/generic (-3),YES,low score,,InternFactory application: a few details needed,"Hi Charan,
+
+Thank you for applying to the InternFactory Internship Program for the Data Engineering, Cloud and Analytics track from Sree Vidyanikethan Engineering College.
+In this track you would work on data pipelines, cloud services and dashboards.
+
+To complete your application, please reply with:
+  - a working link to your resume (Google Drive or PDF)
+  - 3-4 lines about a project you have done or something specific you want to build or learn
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1033,Ishaan Reddy,ishaan.reddy79@example.com,Sri Venkateswara University College of Engineering,"Data Engineering, Cloud and Analytics",4,resume missing (-3); statement too short/generic (-3),YES,low score,,InternFactory application: a few details needed,"Hi Ishaan,
+
+Thank you for applying to the InternFactory Internship Program for the Data Engineering, Cloud and Analytics track from Sri Venkateswara University College of Engineering.
+In this track you would work on data pipelines, cloud services and dashboards.
+
+To complete your application, please reply with:
+  - a working link to your resume (Google Drive or PDF)
+  - 3-4 lines about a project you have done or something specific you want to build or learn
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1034,Ishaan Varma,ishaan.varma62@example.com,Sree Vidyanikethan Engineering College,"Data Engineering, Cloud and Analytics",7,statement too short/generic (-3),no,,,InternFactory application: a few details needed,"Hi Ishaan,
+
+Thank you for applying to the InternFactory Internship Program for the Data Engineering, Cloud and Analytics track from Sree Vidyanikethan Engineering College.
+In this track you would work on data pipelines, cloud services and dashboards.
+
+To complete your application, please reply with:
+  - 3-4 lines about a project you have done or something specific you want to build or learn
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1035,Meghana Yadav,meghana.yadav28@example.com,Annamacharya Institute of Technology and Sciences,"Data Engineering, Cloud and Analytics",7,statement too short/generic (-3),no,,,InternFactory application: a few details needed,"Hi Meghana,
+
+Thank you for applying to the InternFactory Internship Program for the Data Engineering, Cloud and Analytics track from Annamacharya Institute of Technology and Sciences.
+In this track you would work on data pipelines, cloud services and dashboards.
+
+To complete your application, please reply with:
+  - 3-4 lines about a project you have done or something specific you want to build or learn
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1036,Swathi Gupta,swathi.gupta80@example.com,VIT Vellore,"Data Engineering, Cloud and Analytics",7,resume missing (-3),YES,statement does not match chosen domain,,InternFactory application: a few details needed,"Hi Swathi,
+
+Thank you for applying to the InternFactory Internship Program for the Data Engineering, Cloud and Analytics track from VIT Vellore.
+In this track you would work on data pipelines, cloud services and dashboards.
+
+To complete your application, please reply with:
+  - a working link to your resume (Google Drive or PDF)
+  - confirmation of your preferred domain (you chose Data Engineering, Cloud and Analytics, but your note points to Software Development and Full-Stack Engineering)
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1037,Mahesh Reddy,mahesh.reddy32@example.com,VIT Vellore,Artificial Intelligence and Automation,7,statement too short/generic (-3),no,,,InternFactory application: a few details needed,"Hi Mahesh,
+
+Thank you for applying to the InternFactory Internship Program for the Artificial Intelligence and Automation track from VIT Vellore.
+In this track you would build AI-assisted tools and automations that solve real business problems.
+
+To complete your application, please reply with:
+  - 3-4 lines about a project you have done or something specific you want to build or learn
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1038,Vamsi Prasad,vamsi.prasad19@example.com,Mohan Babu University,Artificial Intelligence and Automation,7,resume missing (-3),YES,statement does not match chosen domain,,InternFactory application: a few details needed,"Hi Vamsi,
+
+Thank you for applying to the InternFactory Internship Program for the Artificial Intelligence and Automation track from Mohan Babu University.
+In this track you would build AI-assisted tools and automations that solve real business problems.
+
+To complete your application, please reply with:
+  - a working link to your resume (Google Drive or PDF)
+  - confirmation of your preferred domain (you chose Artificial Intelligence and Automation, but your note points to Data Engineering, Cloud and Analytics)
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1039,Likitha Kumar,likitha.kumar44@example.com,Sree Vidyanikethan Engineering College,Software Testing and Quality Assurance,7,resume missing (-3),no,,,InternFactory application: a few details needed,"Hi Likitha,
+
+Thank you for applying to the InternFactory Internship Program for the Software Testing and Quality Assurance track from Sree Vidyanikethan Engineering College.
+Your attention to bug reports and test automation is exactly what a QA team values.
+In this track you would find bugs, write clear reports and build automated tests.
+
+To complete your application, please reply with:
+  - a working link to your resume (Google Drive or PDF)
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1040,Manoj Varma,manoj.varma73@example.com,Sri Venkateswara University College of Engineering,Software Development and Full-Stack Engineering,10,"complete: resume, valid contact details, specific statement",no,,,InternFactory application received,"Hi Manoj,
+
+Thank you for applying to the InternFactory Internship Program for the Software Development and Full-Stack Engineering track from Sri Venkateswara University College of Engineering.
+Wanting to move from tutorials to production-quality work with code reviews is the right goal.
+In this track you would build and maintain web applications and have your code reviewed by engineers.
+
+Your application is complete and we have it on file.
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1041,Nikhil Rao,nikhil.rao14@example.com,SRM Institute of Science and Technology,Software Testing and Quality Assurance,4,resume missing (-3); statement too short/generic (-3),YES,low score,,InternFactory application: a few details needed,"Hi Nikhil,
+
+Thank you for applying to the InternFactory Internship Program for the Software Testing and Quality Assurance track from SRM Institute of Science and Technology.
+In this track you would find bugs, write clear reports and build automated tests.
+
+To complete your application, please reply with:
+  - a working link to your resume (Google Drive or PDF)
+  - 3-4 lines about a project you have done or something specific you want to build or learn
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1042,Ananya Rao,ananya.rao39example.com,VIT Vellore,Artificial Intelligence and Automation,7,invalid email (-3),YES,"invalid email - cannot send, contact by phone; statement does not match chosen domain",,InternFactory application: a few details needed,"Hi Ananya,
+
+Thank you for applying to the InternFactory Internship Program for the Artificial Intelligence and Automation track from VIT Vellore.
+In this track you would build AI-assisted tools and automations that solve real business problems.
+
+To complete your application, please reply with:
+  - confirmation of your preferred domain (you chose Artificial Intelligence and Automation, but your note points to Software Development and Full-Stack Engineering)
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1043,Likitha Sharma,likitha.sharma77@example.com,Sri Venkateswara University College of Engineering,"Data Engineering, Cloud and Analytics",7,statement too short/generic (-3),no,,,InternFactory application: a few details needed,"Hi Likitha,
+
+Thank you for applying to the InternFactory Internship Program for the Data Engineering, Cloud and Analytics track from Sri Venkateswara University College of Engineering.
+In this track you would work on data pipelines, cloud services and dashboards.
+
+To complete your application, please reply with:
+  - 3-4 lines about a project you have done or something specific you want to build or learn
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1044,Charan Menon,charan.menon20@example.com,Annamacharya Institute of Technology and Sciences,Software Development and Full-Stack Engineering,7,resume missing (-3),no,,,InternFactory application: a few details needed,"Hi Charan,
+
+Thank you for applying to the InternFactory Internship Program for the Software Development and Full-Stack Engineering track from Annamacharya Institute of Technology and Sciences.
+Building a fest registration site is a solid first real-world project.
+In this track you would build and maintain web applications and have your code reviewed by engineers.
+
+To complete your application, please reply with:
+  - a working link to your resume (Google Drive or PDF)
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1045,Ganesh Nair,ganesh.nair70@example.com,JNTU Anantapur,Software Development and Full-Stack Engineering,10,"complete: resume, valid contact details, specific statement",no,,,InternFactory application received,"Hi Ganesh,
+
+Thank you for applying to the InternFactory Internship Program for the Software Development and Full-Stack Engineering track from JNTU Anantapur.
+Wanting to move from tutorials to production-quality work with code reviews is the right goal.
+In this track you would build and maintain web applications and have your code reviewed by engineers.
+
+Your application is complete and we have it on file.
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1046,Vikram Rao,vikram.rao87@example.com,Sree Vidyanikethan Engineering College,Artificial Intelligence and Automation,10,"complete: resume, valid contact details, specific statement",YES,statement does not match chosen domain,,InternFactory application: a few details needed,"Hi Vikram,
+
+Thank you for applying to the InternFactory Internship Program for the Artificial Intelligence and Automation track from Sree Vidyanikethan Engineering College.
+In this track you would build AI-assisted tools and automations that solve real business problems.
+
+To complete your application, please reply with:
+  - confirmation of your preferred domain (you chose Artificial Intelligence and Automation, but your note points to Software Testing and Quality Assurance)
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1047,Rohit Kumar,rohit.kumar73@example.com,Mohan Babu University,Software Development and Full-Stack Engineering,7,statement too short/generic (-3),YES,duplicate of APP-1050 - do not send,APP-1050,,
+APP-1048,Hema Sharma,hema.sharma49@example.com,JNTU Anantapur,Artificial Intelligence and Automation,10,"complete: resume, valid contact details, specific statement",YES,has duplicate submissions - this is the latest,,InternFactory application received,"Hi Hema,
+
+Thank you for applying to the InternFactory Internship Program for the Artificial Intelligence and Automation track from JNTU Anantapur.
+Wanting to move from tutorials to production-quality work with code reviews is the right goal.
+In this track you would build AI-assisted tools and automations that solve real business problems.
+
+Your application is complete and we have it on file.
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
+APP-1049,Sahithi Rao,sahithi.rao43@example.com,Mohan Babu University,Software Development and Full-Stack Engineering,10,"complete: resume, valid contact details, specific statement",YES,duplicate of APP-1022 - do not send,APP-1022,,
+APP-1050,Rohit Kumar,rohit.kumar73@example.com,Mohan Babu University,Software Development and Full-Stack Engineering,7,statement too short/generic (-3),YES,has duplicate submissions - this is the latest,,InternFactory application: a few details needed,"Hi Rohit,
+
+Thank you for applying to the InternFactory Internship Program for the Software Development and Full-Stack Engineering track from Mohan Babu University.
+In this track you would build and maintain web applications and have your code reviewed by engineers.
+
+To complete your application, please reply with:
+  - 3-4 lines about a project you have done or something specific you want to build or learn
+
+Warm regards,
+InternFactory Hiring Team
+info@internfactory.in"
